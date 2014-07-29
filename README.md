@@ -32,4 +32,4 @@ Important links
 
 Style Guides
 ==================
-+ 
++ https://github.com/airbnb/ruby
