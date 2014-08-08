@@ -31,6 +31,7 @@ gem 'high_voltage', '~> 2.2.1'
 gem 'simple_form'
 # used for user authentication
 gem 'devise'
+gem 'omniauth-github'
 gem 'omniauth-google-oauth2'
 gem 'omniauth-facebook'
 gem 'omniauth-twitter'
